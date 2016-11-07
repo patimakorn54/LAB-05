@@ -51,7 +51,7 @@
  2.6). รันโปรแกรม และบันทึกผลที่ได้
 
 
-ผลจากการรันโปรแกรม
+ผลจากการรันโปรแกรม  จะแสดง เลขใน แอดเดรสที่ 0 กับ 1 ซึ่งมี2ตัว จะแสดง 6 2ตัว
 
 ![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture3.JPG?raw=true)
 
@@ -66,7 +66,7 @@
   3.2). รันโปรแกรม และบันทึกผลที่ได้
 
 
-ผลจากการรันโปรแกรม
+ผลจากการรันโปรแกรม จัวเลขด้านหลัว เครื่องหมาย , จะถูกนำไปแสดงตามพิกัดที่กำหนดไว้
 
 
 ![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture4.JPG?raw=true)
@@ -87,7 +87,7 @@
   4.2). รันโปรแกรม และบันทึกผลที่ได้
 
 
-ผลจากการรันโปรแกรม
+ผลจากการรันโปรแกรม จะแสดงหลักทศนิยม
 
 ![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture5.JPG?raw=true)
 
@@ -140,3 +140,8 @@
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+
+จากผลการรันโปรแกรม
+
+
+![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture8.JPG?raw=true)
