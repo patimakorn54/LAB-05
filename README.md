@@ -15,11 +15,13 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic1.png)
 
   2.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+
+จากผลการทดลองพบว่าเมื่อใช้ คำสั่ง Console.WriteLine() จะทำให้เกิดการเว้นบรรทัด ดังรูป
+
+![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture1.JPG?raw=true)
+
+
  2.3). แก้โปรแกรมตามรูปด้านล่างนี้
  
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
