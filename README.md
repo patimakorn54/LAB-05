@@ -64,18 +64,19 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+
+ผลจากการรันโปรแกรม
+
+
+![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture4.JPG?raw=true)
+
+
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+
+กำหนดโดย กำหนดพิกัดจุด แล้วดึงตัวเลขที่อยู่หลัง เครื่องหมาย , ไปวางตามพิกัดจุด
 
 
 4). ทดลองเรื่องการกำหนดรูปแบบของอาร์กิวเมนต์
@@ -84,11 +85,12 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic5.png)
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+
+ผลจากการรันโปรแกรม
+
+![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture5.JPG?raw=true)
+
 
 5). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของอาร์กิวเมนต์
   5.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -96,6 +98,12 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic6.png)
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+  
+ผลจากการรันโปรแกรม
+ 
+![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture6.JPG?raw=true)
+
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
@@ -103,6 +111,11 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+  
+ผลจากการรันโปรแกรม
+
+
+![](https://github.com/patimakorn54/LAB-05/blob/master/img/Capture7.JPG?raw=true)
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
